@@ -1,86 +1,62 @@
-Hi, I'm Iker Rosales.
-
-I am a spanish student in Universidad Carlos III de Madrid, 
-currently studying a Double Major in Telecommunications Engineering and Data Science and Engineering.
-
-I have experience with Python, Java and R due to my
-involvement in several Programming and ML projects.
-
-- Super Mario Bros
-- EDA and ML Titanic Dataset
-- EDA Spotify dataset
-- ML techniques over Spotify Datasets
-- ML model on Pacman paths
-
-
-Aquí tienes un ejemplo de cómo podrías mejorar y embellecer tu README de GitHub. He agregado secciones con un formato más estructurado, enlaces, y un diseño limpio que resalta tus habilidades y proyectos:
-
----
-
 # 👨‍💻 Iker Rosales - Portfolio
 
-**Estudiante de Doble Grado en Ingeniería de Telecomunicaciones y Ciencia e Ingeniería de Datos**  
+**Double Major Student in Telecommunications Engineering and Data Science and Engineering**  
 *Universidad Carlos III de Madrid*
 
-Bienvenido a mi repositorio de proyectos personales de programación, análisis de datos y machine learning. Aquí puedes ver una muestra de los proyectos en los que he trabajado, mis habilidades técnicas y mis áreas de interés.
+Welcome to my repository, where I showcase my personal projects in programming, data analysis, and machine learning. Here, you'll find an overview of my skills, technical experience, and key projects.
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## 🛠️ Technical Skills
 
-- **Lenguajes de Programación:** Python, Java, R
-- **Áreas de Experiencia:** 
-  - Análisis Exploratorio de Datos (EDA)
-  - Modelos de Machine Learning
-  - Ciencia de Datos aplicada a datasets populares
-
----
-
-## 📂 Proyectos Destacados
-
-### 🎮 [Super Mario Bros - Análisis y Simulación](link-al-proyecto)
-> Exploración del clásico juego **Super Mario Bros** usando técnicas de programación y simulación.
-
-- **Objetivo:** Analizar la mecánica del juego y desarrollar algoritmos para simular niveles.
-- **Tecnologías:** Python, OpenCV, simulación.
-- **Resultados:** Modelo que puede simular los movimientos de Mario en un nivel generado por el usuario.
-
-### 🚢 [Titanic Dataset - Análisis Exploratorio de Datos (EDA) y Machine Learning](link-al-proyecto)
-> Un estudio completo sobre los datos de pasajeros del Titanic, desde análisis descriptivo hasta modelado predictivo.
-
-- **Objetivo:** Predecir la supervivencia de pasajeros usando el dataset del Titanic.
-- **Tecnologías:** Python, pandas, scikit-learn.
-- **Análisis:** Gráficas de distribución, correlación de variables y predicción usando algoritmos de clasificación.
-- **Resultados:** Modelos de clasificación que alcanzan una precisión del XX%.
-
-### 🎵 [Spotify Dataset - Análisis Exploratorio y Técnicas de Machine Learning](link-al-proyecto)
-> Analizando patrones en las canciones de Spotify para descubrir tendencias de popularidad y géneros.
-
-- **Objetivo:** Analizar las características musicales de distintas canciones para entender su popularidad.
-- **Tecnologías:** Python, pandas, matplotlib, scikit-learn.
-- **Resultados:** Se construyó un modelo predictivo de popularidad basado en atributos como tempo, energía y acústica.
-
-### 👾 [Pacman - Modelos de ML para Rutas Óptimas](link-al-proyecto)
-> Desarrollo de un modelo para calcular las rutas óptimas que sigue Pacman en un laberinto.
-
-- **Objetivo:** Encontrar la ruta más corta y eficiente que Pacman puede tomar.
-- **Tecnologías:** Python, algoritmos de búsqueda (A*, BFS), optimización.
-- **Resultados:** Modelo de ML que permite calcular la mejor ruta en diferentes escenarios de laberinto.
+- **Programming Languages:** Python, Java, R
+- **Core Competencies:**  
+  - Exploratory Data Analysis (EDA)
+  - Machine Learning Modeling
+  - Applied Data Science with popular datasets
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 📂 Featured Projects
 
-[![Estadísticas de GitHub de Iker](https://github-readme-stats.vercel.app/api?username=ikerrosales&show_icons=true&theme=radical)](link-a-tu-github)
+### 🎮 [Super Mario Bros - Analysis and Simulation](link-to-project)
+> A deep dive into the classic **Super Mario Bros** game, using programming and simulation techniques.
+
+- **Objective:** Analyze game mechanics and develop algorithms to simulate levels.
+- **Technologies:** Python, OpenCV, simulation.
+- **Outcome:** A model that can simulate Mario’s movements in user-generated levels.
+
+### 🚢 [Titanic Dataset - Exploratory Data Analysis (EDA) and Machine Learning](link-to-project)
+> A complete study on the Titanic passenger data, from descriptive analysis to predictive modeling.
+
+- **Objective:** Predict passenger survival using the Titanic dataset.
+- **Technologies:** Python, pandas, scikit-learn.
+- **Analysis:** Distribution plots, variable correlations, and predictions using classification algorithms.
+- **Results:** Classification models reaching an accuracy of XX%.
+
+### 🎵 [Spotify Dataset - Exploratory Analysis and Machine Learning Techniques](link-to-project)
+> Analyzing patterns in Spotify songs to uncover popularity trends and genre insights.
+
+- **Objective:** Analyze musical features to understand song popularity.
+- **Technologies:** Python, pandas, matplotlib, scikit-learn.
+- **Results:** Predictive model based on features like tempo, energy, and acoustics.
+
+### 👾 [Pacman - ML Models for Optimal Paths](link-to-project)
+> Developing a model to calculate optimal paths for Pacman through a maze.
+
+- **Objective:** Find the shortest and most efficient path for Pacman.
+- **Technologies:** Python, search algorithms (A*, BFS), optimization.
+- **Outcome:** An ML model that calculates the best route across various maze scenarios.
 
 ---
 
-## 📫 Contacto
+## 📈 GitHub Stats
 
-- **Correo Electrónico:** [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)
-- **LinkedIn:** [Iker Rosales](link-a-linkedin)
-- **Portafolio Web:** [ikerrosales.com](link-a-tu-sitio-web)
+[![Iker’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikerrosales&show_icons=true&theme=radical)](link-to-github-profile)
 
 ---
 
-Este README no solo hace que tu portafolio luzca más profesional, sino que también facilita a los reclutadores y colaboradores ver rápidamente tus habilidades y proyectos.
+## 📫 Contact
+
+- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn:** [Iker Rosales](link-to-linkedin)
