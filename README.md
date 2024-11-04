@@ -15,38 +15,37 @@ Welcome to my repository, where I showcase my personal projects in programming, 
   - Machine Learning Modeling
   - Applied Data Science with popular datasets
 
----
-
 ## 📂 Featured Projects
 
-### 🎮 [Super Mario Bros - Analysis and Simulation](link-to-project)
-> A deep dive into the classic **Super Mario Bros** game, using programming and simulation techniques.
+### 📊 Cajamar Datathon *(Private)*
+> **Description:** Project developed for the Cajamar Datathon 2024, focusing on advanced data engineering, data analysis, and predictive modeling techniques. This project involved working with over 30 distinct databases, integrating and analyzing large datasets to generate meaningful insights and build robust predictive models.
 
-- **Objective:** Analyze game mechanics and develop algorithms to simulate levels.
-- **Technologies:** Python, OpenCV, simulation.
-- **Outcome:** A model that can simulate Mario’s movements in user-generated levels.
+- **Objective:** Analyze and model a dataset provided by Cajamar to gain insights and make data-driven predictions.
+- **Technologies:** Jupyter Notebook, Python (Pandas, Numpy, MatPlotlib, Seaborn, Scikit-learn)
 
-### 🚢 [Titanic Dataset - Exploratory Data Analysis (EDA) and Machine Learning](link-to-project)
-> A complete study on the Titanic passenger data, from descriptive analysis to predictive modeling.
+- ### 📈 [Predictive-Modeling-for-Smartphone-Market-Pricing](https://github.com/ikerosales/Predictive-Modeling-for-Smartphone-Market-Pricing) *(Public)*
+> **Description:** A machine learning project in R aimed at predicting smartphone prices based on various market and device features.
 
-- **Objective:** Predict passenger survival using the Titanic dataset.
-- **Technologies:** Python, pandas, scikit-learn.
-- **Analysis:** Distribution plots, variable correlations, and predictions using classification algorithms.
-- **Results:** Classification models reaching an accuracy of XX%.
+- **Objective:** Build a predictive model to estimate smartphone pricing in the market using regression techniques.
+- **Technologies:** R, HTML for reporting
+  
+### 👾 [PacMan-ReinforcementLearning](https://github.com/ikerosales/PacMan-ReinforcementLearning) *(Public)*
+> **Description:** A reinforcement learning project using Python to train an agent in the classic PacMan game.
 
-### 🎵 [Spotify Dataset - Exploratory Analysis and Machine Learning Techniques](link-to-project)
-> Analyzing patterns in Spotify songs to uncover popularity trends and genre insights.
+- **Objective:** Implement reinforcement learning techniques to enable PacMan to find optimal paths in different maze configurations.
+- **Technologies:** Python, Reinforcement Learning 
 
-- **Objective:** Analyze musical features to understand song popularity.
-- **Technologies:** Python, pandas, matplotlib, scikit-learn.
-- **Results:** Predictive model based on features like tempo, energy, and acoustics.
+### 🎮 [MarioBrosProject](https://github.com/ikerosales/MarioBrosProject) *(Public)*
+> **Description:** A Python implementation inspired by the classic Mario Bros game, developed using Object-Oriented Programming (OOP) principles. (2021)
 
-### 👾 [Pacman - ML Models for Optimal Paths](link-to-project)
-> Developing a model to calculate optimal paths for Pacman through a maze.
+- **Objective:** Simulate the gameplay mechanics of Mario Bros in Python, allowing for customized game levels and movement.
+- **Technologies:** Python, Object-Oriented Programming
 
-- **Objective:** Find the shortest and most efficient path for Pacman.
-- **Technologies:** Python, search algorithms (A*, BFS), optimization.
-- **Outcome:** An ML model that calculates the best route across various maze scenarios.
+### 🔒 [NIDS_HackOSS](https://github.com/ikerosales/NIDS_HackOSS) *(Public - Forked)*
+> **Description:** A Network Intrusion Detection System (NIDS) project done in collaboration with NTU Open Source Society in Singapore.
+
+- **Objective:** Leverage ML & DL techniques to detect network intrusions, improving cybersecurity through data analysis techniques.
+- **Technologies:** Jupyter Notebook, Python(Pandas, Numpy, MatPlotlib, Seaborn, Scikit-learn)
 
 ---
 
