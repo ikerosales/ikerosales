@@ -7,13 +7,19 @@ Welcome to my repository, where I showcase my personal projects in programming, 
 
 ---
 
+
 ## 🛠️ Technical Skills
 
-- **Programming Languages:** Python, Java, R
-- **Core Competencies:**  
-  - Exploratory Data Analysis (EDA)
-  - Machine Learning Modeling
-  - Applied Data Science with popular datasets
+- **Machine Learning & Deep Learning:** Random Forest, CNNs, XGBoost; extensive experience in data preprocessing, model optimization, and analysis of large-scale datasets (1M+ records).
+  
+- **Data Engineering & Analysis:** Skilled in data cleaning, merging, and EDA with **Pandas, Numpy, PySpark**, handling complex datasets from network and smartphone data.
+
+- **Network Optimization:** Applied ML/DL for WiFi, 5G, and 6G network analysis across 15,800 devices, optimizing device identification and privacy.
+
+- **Programming Languages:** Python, Java, R, SQL, Matlab, Assembly, MongoDB
+
+- **Tools:** Jupyter, Oracle, RStudio, PyCharm, Eclipse, Kaggle, VBA, Office 365
+
 
 ## 📂 Featured Projects
 
