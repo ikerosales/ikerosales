@@ -50,12 +50,6 @@ Welcome to my repository, where I showcase my personal projects in programming, 
 
 ---
 
-## 📈 GitHub Stats
-
-[![Iker’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikerrosales&show_icons=true&theme=radical)](link-to-github-profile)
-
----
-
 ## 📫 Contact
 
 - **Email:** [your-email@example.com](mailto:your-email@example.com)
