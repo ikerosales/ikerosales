@@ -57,5 +57,5 @@ Welcome to my repository, where I showcase my personal projects in programming, 
 
 ## 📫 Contact
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Iker Rosales](link-to-linkedin)
+- **Email:** [iker251203@gmail.com](mailto:iker251203@gmail.com)
+- **LinkedIn:** [Iker Rosales](https://www.linkedin.com/in/iker-rosales-saiz-49218531b/)
