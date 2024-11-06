@@ -59,3 +59,4 @@ Welcome to my repository, where I showcase my personal projects in programming, 
 
 - **Email:** [iker251203@gmail.com](mailto:iker251203@gmail.com)
 - **LinkedIn:** [Iker Rosales](https://www.linkedin.com/in/iker-rosales-saiz-49218531b/)
+- **CV:** 
