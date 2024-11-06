@@ -16,10 +16,24 @@ Welcome to my repository, where I showcase my personal projects in programming, 
 
 - **Network Optimization:** Applied ML/DL for WiFi, 5G, and 6G network analysis across 15,800 devices, optimizing device identification and privacy.
 
-- **Programming Languages:** Python, Java, R, SQL, Matlab, Assembly, MongoDB
+- **Programming Languages:**
+  + **Python**
+  + **Java**
+  + **R**
+  + **SQL**
+  + **Matlab**
+  + **Assembly**
+  + **MongoDB**
 
-- **Tools:** Jupyter, Oracle, RStudio, PyCharm, Eclipse, Kaggle, VBA, Office 365
-
+- **Tools & IDEs:**
+  + **Jupyter Notebook**
+  +  **Oracle Database**
+  +  **RStudio**
+  +  **PyCharm**
+  +   **Eclipse**
+  +   **Kaggle**
+  +   **VBA (Visual Basic for Applications)**
+  +   **Office 365**
 
 ## 📂 Featured Projects
 
