@@ -16,24 +16,35 @@ Welcome to my repository, where I showcase my personal projects in programming, 
 
 - **Network Optimization:** Applied ML/DL for WiFi, 5G, and 6G network analysis across 15,800 devices, optimizing device identification and privacy.
 
-- **Programming Languages:**
-  + **Python**
-  + **Java**
-  + **R**
-  + **SQL**
-  + **Matlab**
-  + **Assembly**
-  + **MongoDB**
 
-- **Tools & IDEs:**
-  + **Jupyter Notebook**
-  +  **Oracle Database**
-  +  **RStudio**
-  +  **PyCharm**
-  +   **Eclipse**
-  +   **Kaggle**
-  +   **VBA (Visual Basic for Applications)**
-  +   **Office 365**
+## 🌐 Programming Languages
+| Language        | Icon                                                                                   |
+|-----------------|----------------------------------------------------------------------------------------|
+| **Python**      | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **Java**        | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)     |
+| **R**           | ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)            |
+| **SQL**         | ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) |
+| **Matlab**      | ![Matlab](https://img.shields.io/badge/-Matlab-0076A8?style=flat&logo=mathworks&logoColor=white) |
+| **Assembly**    | ![Assembly](https://img.shields.io/badge/-Assembly-2C4CB5?style=flat&logo=assembler&logoColor=white) |
+| **MongoDB**     | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
+| **Neo4J**       | ![Neo4J](https://img.shields.io/badge/-Neo4J-008CC1?style=flat&logo=neo4j&logoColor=white) |
+
+
+
+## 🛠️ Tools & IDEs
+| Tool/IDE               | Icon                                                                                     |
+|------------------------|------------------------------------------------------------------------------------------|
+| **Jupyter Notebook**   | ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) |
+| **Oracle Database**    | ![Oracle Database](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white) |
+| **RStudio**            | ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=rstudio&logoColor=white) |
+| **PyCharm**            | ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white) |
+| **Eclipse**            | ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white) |
+| **Kaggle**             | ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white) |
+| **VBA**                | ![VBA](https://img.shields.io/badge/-VBA-217346?style=flat&logo=microsoft-excel&logoColor=white) |
+| **Office 365**         | ![Office 365](https://img.shields.io/badge/-Office%20365-D83B01?style=flat&logo=microsoft-office&logoColor=white) |
+
+---
+
 
 ## 📂 Featured Projects
 
