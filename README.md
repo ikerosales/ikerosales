@@ -17,31 +17,40 @@ Welcome to my repository, where I showcase my personal projects in programming, 
 - **Network Optimization:** Applied ML/DL for WiFi, 5G, and 6G network analysis across 15,800 devices, optimizing device identification and privacy.
 
 
-## 🌐 Programming Languages
-| Language        | Icon                                                                                   |
-|-----------------|----------------------------------------------------------------------------------------|
-| **Python**      | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **Java**        | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)     |
-| **R**           | ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)            |
-| **SQL**         | ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) |
-| **Matlab**      | ![Matlab](https://img.shields.io/badge/-Matlab-0076A8?style=flat&logo=mathworks&logoColor=white) |
-| **Assembly**    | ![Assembly](https://img.shields.io/badge/-Assembly-2C4CB5?style=flat&logo=assembler&logoColor=white) |
-| **MongoDB**     | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
-| **Neo4J**       | ![Neo4J](https://img.shields.io/badge/-Neo4J-008CC1?style=flat&logo=neo4j&logoColor=white) |
+## 🌐 Programming Languages & Libraries
 
-
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/-Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="Matlab">
+  <img src="https://img.shields.io/badge/-Assembly-2C4CB5?style=for-the-badge&logo=assembler&logoColor=white" alt="Assembly">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/-Neo4J-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4J">
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn">
+  <img src="https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/-XGBoost-1C75BC?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost">
+  <img src="https://img.shields.io/badge/-Pyomo-87A4A5?style=for-the-badge&logo=python&logoColor=white" alt="Pyomo">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  
+</p>
 
 ## 🛠️ Tools & IDEs
-| Tool/IDE               | Icon                                                                                     |
-|------------------------|------------------------------------------------------------------------------------------|
-| **Jupyter Notebook**   | ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) |
-| **Oracle Database**    | ![Oracle Database](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white) |
-| **RStudio**            | ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=rstudio&logoColor=white) |
-| **PyCharm**            | ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white) |
-| **Eclipse**            | ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white) |
-| **Kaggle**             | ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white) |
-| **VBA**                | ![VBA](https://img.shields.io/badge/-VBA-217346?style=flat&logo=microsoft-excel&logoColor=white) |
-| **Office 365**         | ![Office 365](https://img.shields.io/badge/-Office%20365-D83B01?style=flat&logo=microsoft-office&logoColor=white) |
+<p align="center">
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio"/> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"/> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="VBA"/> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Office%20365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Office 365"/> &nbsp;&nbsp;
+</p>
 
 ---
 
