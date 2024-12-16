@@ -3,9 +3,7 @@
 **Double Major Student in Telecommunications Engineering and Data Science and Engineering**  
 *Universidad Carlos III de Madrid*
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com     font=Courier&weight=800&size=30&pause=1000&color=F1F700&center=true&width=435&lines=Hi%2C+I'm+Iker+Rosales;Data+Science+and+Engineering+Student;Telecommunication+Engineering+Student;Universidad+Carlos+III+de+Madrid;Nanyang+Technological+University+(Singapore)">
-</a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier&weight=800&size=30&pause=1000&color=F1F700&center=true&width=435&lines=Hi%2C+I'm+Iker+Rosales;Data+Science+and+Engineering+Student;Telecommunication+Engineering+Student;Universidad+Carlos+III+de+Madrid;Nanyang+Technological+University+(Singapore))](https://git.io/typing-svg)
 
 
 
