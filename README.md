@@ -1,10 +1,6 @@
 # 👨‍💻 Iker Rosales - Portfolio
 
-**Double Major Student in Telecommunications Engineering and Data Science and Engineering**  
-*Universidad Carlos III de Madrid*
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier&weight=800&size=30&pause=1000&color=F1F700&center=true&width=600&height=100&lines=Hi%2C+I'm+Iker+Rosales;Data+Science+and+Engineering+Student;Telecommunication+Engineering+Student;UC3M+%26+NTU+Singapore)](https://git.io/typing-svg)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Courier&weight=800&size=30&pause=1000&color=F1F700&background=31313100&center=true&width=650&height=120&lines=Hi%2C+I'm+Iker+Rosales;Data+Science+and+Engineering;Telecommunications+Engineering;UC3M+%26+NTU+Singapore" alt="Typing SVG" /></a>
 
 ## 🛠️ Technical Skills
 
