@@ -1,6 +1,8 @@
 # 👨‍💻 Iker Rosales - Portfolio
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Courier&weight=800&size=30&pause=1000&color=F1F700&background=31313100&center=true&width=650&height=120&lines=Hi%2C+I'm+Iker+Rosales;Data+Science+and+Engineering;Telecommunications+Engineering;UC3M+%26+NTU+Singapore" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?  font=Source+Code+Pro&weight=500&size=30&duration=3000&pause=10&color=F1F700&background=31313100&center=true&multiline=true&width=650&height=180&lines=Hi%2C+I'm+Iker+Rosales;Data+Science+and+Engineering+%F0%9F%93%8A;Telecommunications+Engineering+%F0%9F%8C%90;UC3M+%26+NTU+%F0%9F%8F%AB" alt="Iker- Profile - svg" />
+</a>
 
 ## 🛠️ Technical Skills
 
