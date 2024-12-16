@@ -3,8 +3,7 @@
 **Double Major Student in Telecommunications Engineering and Data Science and Engineering**  
 *Universidad Carlos III de Madrid*
 
-Welcome to my repository, where I showcase my personal projects in programming, data analysis, and machine learning. Here, you'll find an overview of my skills, technical experience, and key projects.
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com font=Courier&weight=800&size=30&pause=1000&color=F1F700&center=true&width=435&lines=Hi%2C+I'm+Iker+Rosales;Data+Science+and+Engineering+Student;Telecommunication+Engineering+Student;Universidad+Carlos+III+de+Madrid;Nanyang+Technological+University+(Singapore)" alt="Typing SVG" /></a>
 ---
 
 
