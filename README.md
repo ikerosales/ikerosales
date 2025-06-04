@@ -5,12 +5,25 @@
 
 ## 🛠️ Technical Skills
 
-- **Machine Learning & Deep Learning:** Random Forest, CNNs, XGBoost; extensive experience in data preprocessing, model optimization, and analysis of large-scale datasets (1M+ records).
-  
-- **Data Engineering & Analysis:** Skilled in data cleaning, merging, and EDA with **Pandas, Numpy, PySpark**, handling complex datasets from network and smartphone data.
+Perfecto, gracias por la aclaración. Si controlas bien de *Machine Learning* y *Redes Neuronales*, podemos dividir ese primer bloque en varias secciones específicas que reflejen tu nivel técnico sin repetir conceptos, diferenciando bien entre algoritmos clásicos, redes neuronales profundas y arquitecturas modernas como Transformers. Aquí tienes una versión mejor estructurada y más profesional:
 
-- **Network Optimization:** Applied ML/DL for WiFi, 5G, and 6G network analysis across 15,800 devices, optimizing device identification and privacy.
+---
 
+🛠️ **Technical Skills**
+
+* **Machine Learning**: Extensive experience with supervised and unsupervised algorithms, including Random Forest, XGBoost, SVM, and clustering techniques. Skilled in feature engineering, class imbalance handling, and performance evaluation across business and scientific use cases.
+
+* **Deep Learning**: Proficient in designing and training neural networks using frameworks such as PyTorch and TensorFlow. Experience includes CNNs for image data, RNNs/LSTMs for sequences, and multi-input/multi-task architectures.
+
+* **Transformers & LLM Development**: In-depth understanding of Transformer-based models, including self-attention, multi-head attention, and positional encoding. Experience in building full LLM pipelines—custom tokenizers, pretraining/fine-tuning, distributed training, and inference optimization for deployment. Familiar with Hugging Face ecosystem and scalable GPU-based training.
+
+* **Data Engineering & Analysis**: Skilled in processing large-scale datasets using Pandas, NumPy, PySpark, and SQL. Strong background in data cleaning, integration, and exploratory data analysis, with a focus on network and mobility datasets from smartphones and connected devices.
+
+* **Network Intelligence & Optimization**: Applied ML/DL methods to analyze WiFi, 5G, and 6G traces from over 15,800 devices. Developed models for device fingerprinting, user behavior prediction, and privacy-preserving analytics in high-density environments.
+
+* **Natural Language Processing (NLP)**: Experience in text preprocessing, vectorization (TF-IDF, FastText, S-Bert,...), and NLP model development for tasks such as classification, topic modeling, and semantic similarity. Familiar with libraries like spaCy, Hugging Face Transformers, and gensim.
+
+---
 
 ## 🌐 Programming Languages & Libraries
 
