@@ -5,12 +5,6 @@
 
 ## 🛠️ Technical Skills
 
-Perfecto, gracias por la aclaración. Si controlas bien de *Machine Learning* y *Redes Neuronales*, podemos dividir ese primer bloque en varias secciones específicas que reflejen tu nivel técnico sin repetir conceptos, diferenciando bien entre algoritmos clásicos, redes neuronales profundas y arquitecturas modernas como Transformers. Aquí tienes una versión mejor estructurada y más profesional:
-
----
-
-🛠️ **Technical Skills**
-
 * **Machine Learning**: Extensive experience with supervised and unsupervised algorithms, including Random Forest, XGBoost, SVM, and clustering techniques. Skilled in feature engineering, class imbalance handling, and performance evaluation across business and scientific use cases.
 
 * **Deep Learning**: Proficient in designing and training neural networks using frameworks such as PyTorch and TensorFlow. Experience includes CNNs for image data, RNNs/LSTMs for sequences, and multi-input/multi-task architectures.
