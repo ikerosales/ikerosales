@@ -56,6 +56,24 @@
 
 ---
 
+<p align="center">
+  <a href="https://github.com/ikerosales">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=ikerosales&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=000000&border_radius=12&hide_rank=true"
+      alt="GitHub Stats Iker Osales" 
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=ikerosales&theme=black-ice&hide_border=true&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" 
+    alt="GitHub Streak Iker Osales" 
+  />
+</p>
+
+
+
+
+
 
 
 ## 📫 Contact
