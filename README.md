@@ -7,9 +7,9 @@
 
 * **Machine Learning**: Extensive experience with supervised and unsupervised algorithms, including Random Forest, XGBoost, SVM, and clustering techniques. Skilled in feature engineering, class imbalance handling, and performance evaluation across business and scientific use cases.
 
-* **Deep Learning**: Proficient in designing and training neural networks using frameworks such as PyTorch and TensorFlow. Experience includes CNNs for image data, RNNs/LSTMs for sequences, and multi-input/multi-task architectures.
+* **Deep Learning**: Proficient in designing and training neural networks using frameworks such as PyTorch. Experience includes CNNs for image data, RNNs/LSTMs for sequences, and multi-input/multi-task architectures.
 
-* **Transformers & LLM Development**: In-depth understanding of Transformer-based models, including self-attention, multi-head attention, and positional encoding. Experience in building full LLM pipelines—custom tokenizers, pretraining/fine-tuning, distributed training, and inference optimization for deployment. Familiar with Hugging Face ecosystem and scalable GPU-based training.
+* **Transformers & LLM Development**: In-depth understanding of Transformer-based models, including self-attention, multi-head attention, and positional encoding. Experience in building full LLM pipelines—custom tokenizers, pretraining/fine-tuning. Special mention to my Final Degree Project being focused on Continuous-Time Mobility Prediction and Synthetic Trace Generation with Transformer Models.
 
 * **Data Engineering & Analysis**: Skilled in processing large-scale datasets using Pandas, NumPy, PySpark, and SQL. Strong background in data cleaning, integration, and exploratory data analysis, with a focus on network and mobility datasets from smartphones and connected devices.
 
